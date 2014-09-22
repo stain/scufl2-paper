@@ -1,4 +1,4 @@
 abstract.md
-Introduction.md
+introduction.md
 background.md
 conclusion.md
