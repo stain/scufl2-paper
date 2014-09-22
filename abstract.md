@@ -1,2 +1,25 @@
-_Oh, an empty article!_ You can get started by **double clicking** this text block and begin editing. You can also click the **Insert** button below to add new block elements. Or you can **drag and drop an image** right onto this text!
 
+This article desribes the next
+major version of our [Taverna workflow system](http://www.taverna.org./uk/),
+in particular focusing on its workflow language SCUFL2 and the abstract semantic
+workflow model wfdesc.
+
+The [SCUFL2 API](https://github.com/taverna/taverna-scufl2/)
+allows construction and inspection of Taverna 3
+workflows from independent applications, but also enables translation
+from/to different abstract and concrete third-party workflow formats
+([SHIWA](http://www.shiwa-workflow.eu/) IWIR,
+[MG-RAST](http://blog.metagenomics.anl.gov/) AWE).
+
+This includes the general semantic model
+[wfdesc](http://purl.org/wf4ever/model#wfdesc)
+which we have created within the
+[Wf4Ever project](http://www.wf4ever-project.org/)
+for the purpose of workflow preservation and annotation.
+wfdesc is easily combined with W3C PROV-based
+[workflow provenance](http://purl.org/wf4ever/model#wfprov),
+and is also used by the digital
+preservation project [SCAPE](http://www.scape-project.eu/)
+to find and compose semantically
+described Workflow Components from the [myExperiment workflow
+repository](http://www.myexperiment.org/).
