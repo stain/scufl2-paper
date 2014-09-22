@@ -1,5 +1,5 @@
 
-This article desribes the next
+This article describes the next
 major version of our [Taverna workflow system](http://www.taverna.org./uk/),
 in particular focusing on its workflow language SCUFL2 and the abstract semantic
 workflow model wfdesc.
