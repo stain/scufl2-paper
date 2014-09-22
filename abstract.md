@@ -1,6 +1,6 @@
 
 This article describes the next
-major version of our [Taverna workflow system](http://www.taverna.org./uk/),
+major version of the [Taverna workflow system](http://www.taverna.org.uk/) \cite{Wolstencroft_2013},
 in particular focusing on its workflow language SCUFL2 and the abstract semantic
 workflow model wfdesc.
 
@@ -14,7 +14,7 @@ from/to different abstract and concrete third-party workflow formats
 This includes the general semantic model
 [wfdesc](http://purl.org/wf4ever/model#wfdesc)
 which we have created within the
-[Wf4Ever project](http://www.wf4ever-project.org/)
+[Wf4Ever project](http://www.wf4ever-project.org/) \cite{Hettne_2014}
 for the purpose of workflow preservation and annotation.
 wfdesc is easily combined with W3C PROV-based
 [workflow provenance](http://purl.org/wf4ever/model#wfprov),
