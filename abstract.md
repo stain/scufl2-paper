@@ -4,7 +4,7 @@ major version of our [Taverna workflow system](http://www.taverna.org./uk/),
 in particular focusing on its workflow language SCUFL2 and the abstract semantic
 workflow model wfdesc.
 
-The [SCUFL2 API](https://github.com/taverna/taverna-scufl2/)
+The [SCUFL2 API](https://github.com/taverna/taverna-scufl2/) \cite{3721cfa2-edd7-43f1-825a-6b5044f0d0db}
 allows construction and inspection of Taverna 3
 workflows from independent applications, but also enables translation
 from/to different abstract and concrete third-party workflow formats
