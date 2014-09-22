@@ -4,11 +4,12 @@ Special Section on Scientific Workflows](http://www.cs.stir.ac.uk/~kjt/research/
 # Introduction
 
 This article desribes the next
-major version of our Taverna workflow system [1], in particular
-focusing on its workflow language SCUFL2 and the abstract semantic
+major version of our [Taverna workflow system](http://www.taverna.org./uk/), 
+in particular focusing on its workflow language SCUFL2 and the abstract semantic
 workflow model wfdesc.
 
-The SCUFL2 API [2] allows construction and inspection of Taverna 3
+The [SCUFL2 API](https://github.com/taverna/taverna-scufl2/) 
+allows construction and inspection of Taverna 3
 workflows from independent applications, but also enables translation
 from/to different abstract and concrete third-party workflow formats
 (SHIWA [8] IWIR, MG-RAST [9] AWE).
@@ -23,9 +24,7 @@ repository.
 
 
 
-[0] http://www.mygrid.org.uk/
-[1] http://www.taverna.org.uk/
-[2] https://github.com/taverna/taverna-scufl2/
+
 [3] http://purl.org/wf4ever/model#wfdesc
 [4] http://www.wf4ever-project.org/
 [5] http://purl.org/wf4ever/model#wfprov
