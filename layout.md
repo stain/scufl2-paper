@@ -1,6 +1,6 @@
 abstract.md
 introduction.md
 background.md
-asfdasdf.tex
+bg.tex
 conclusion.md
 Example citation.md
