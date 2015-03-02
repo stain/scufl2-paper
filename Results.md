@@ -25,7 +25,7 @@
 
 * Java API for programmatically loading, saving and creating SCUFL2 Workflow Bundles
 * Each workflow element is a Java bean
-* Support for load/save different formats, scufl1, t2flow, wfbundle, wfdesc
+* Support for load/save different formats, scufl1, t2flow, wfbundle, [wfdesc](https://github.com/apache/incubator-taverna-language/tree/master/taverna-scufl2-wfdesc), [shiwa-iwir](https://github.com/stain/scufl2-iwir)
 
 ## wfdesc
 
