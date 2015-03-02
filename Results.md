@@ -55,7 +55,10 @@
 
 ### Databundle
 
-Workflow results can be stored as a DataBundle - extension of robundle
+Workflow results can be stored as a [DataBundle](https://github.com/apache/incubator-taverna-language/tree/master/taverna-databundle) - extension of robundle.
+
+Used for provenance of workflow runs -
+https://github.com/taverna/taverna-prov#structure-of-exported-provenance
 
 Databundle contains a wfbundle
 
