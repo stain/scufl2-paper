@@ -10,7 +10,7 @@ _Workflow, processor, activity, ports, datalinks._
 ## Motivations for SCUFL2
 
 * Modular
-** Workbench vs Command line vs Server vs Grid
+ * Workbench vs Command line vs Server vs Grid
 * Independence from engine implementation
 * Programmatic access outside Taverna
 * Semantic annotations - 
