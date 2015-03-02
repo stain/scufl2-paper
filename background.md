@@ -17,7 +17,7 @@
   * Some-what executeable by other third-parties
     * .. but they usually get the workflow semantics wrong 
   * Easy to edit by hand
-* t2flow
+* t2flow - not so simple XML with everything
   * Built around T2 engine and its implementation
     * e.g. support for multiple activities, dispatch stack, richer iteration strategies
   * XMLBeans serialization of engine state
@@ -36,7 +36,8 @@
  * Workbench vs Command line vs Server vs Grid
 * Independence from engine implementation
 * Programmatic access outside Taverna
-* Semantic annotations - 
+  * Reuse existing formats like ZIP and XML
+* Semantic annotations
 * Semantic inspection
 * Flexibility - should not need to say everything
 * Translations - load/save other workflow formats
