@@ -45,6 +45,13 @@ Not a requirement:
  * Editing by hand (Still need to know a lot about the services)
  * Too much implicitly - only implicit-where-appropriate (e.g. useful defaults)
 
+## Review of workflow languages
+
+* Galaxy
+* Knime
+* WINGS and [OPM-W](http://www.opmw.org/)
+* ..?
+* bpel!! ?? NOOO
 
 ## Related languages and technologies
 
