@@ -3,3 +3,5 @@ Special Section on Scientific Workflows](http://www.cs.stir.ac.uk/~kjt/research/
 
 # Introduction
 
+* Generic What is Taverna blurb
+* something about Apache and Taverna 3?
