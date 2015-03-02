@@ -50,8 +50,10 @@ Not a requirement:
 * Galaxy
 * Knime
 * WINGS and [OPM-W](http://www.opmw.org/)
+* Airavata
+* BPEL!! ?? Uuuh..
 * ..?
-* bpel!! ?? NOOO
+
 
 ## Related languages and technologies
 
