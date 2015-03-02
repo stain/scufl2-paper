@@ -1,5 +1,6 @@
 Authors: Stian Soiland-Reyes, David Withers, Alan R Williams, Donal Fellows, Carole Goble
 
+
 This article describes the next
 major version of the [Taverna workflow system](http://www.taverna.org.uk/) \cite{Wolstencroft_2013},
 in particular focusing on its workflow language SCUFL2 and the abstract semantic
