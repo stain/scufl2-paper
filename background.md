@@ -27,4 +27,5 @@ _Workflow, processor, activity, ports, datalinks._
 * [ePub OCF format](http://idpf.org/epub/30/spec/epub30-ocf-20111011.html)
 * [ODF bundle](https://researchobject.github.io/specifications/bundle/)
 * [Adobe UCF](https://wikidocs.adobe.com/wiki/display/PDFNAV/Universal+Container+Format)
+* [SHIWA](http://www.shiwa-workflow.eu/] IWIR]
 * .. not in cronological order :)
