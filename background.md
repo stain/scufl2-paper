@@ -20,3 +20,11 @@ _Workflow, processor, activity, ports, datalinks._
 
 ## Related languages and technologies
 
+* [Research Object](http://www.researchobject.org/)
+* [JSON-LD](http://json-ld.org/)
+* [Open Annotation data model](http://openannotation.org/spec/core/)
+* [W3C Web Annotation Data Model](http://www.w3.org/TR/annotation-model/)
+* [ePub OCF format](http://idpf.org/epub/30/spec/epub30-ocf-20111011.html)
+* [ODF bundle](https://researchobject.github.io/specifications/bundle/)
+* [Adobe UCF](https://wikidocs.adobe.com/wiki/display/PDFNAV/Universal+Container+Format)
+* .. not in cronological order :)
