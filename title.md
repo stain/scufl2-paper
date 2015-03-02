@@ -1,1 +1,1 @@
-SCUFL2 and wfdesc
+Apache Taverna Language: Semantic and flexible workflow definitions
