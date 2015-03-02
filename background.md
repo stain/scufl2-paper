@@ -30,7 +30,8 @@
   * Impossible to edit by hand
   
 ## Motivations for SCUFL2
-
+* Sharable
+  * .. and rerunnable workflows
 * Modular
  * Workbench vs Command line vs Server vs Grid
 * Independence from engine implementation
