@@ -1,5 +1,6 @@
 Authors: Stian Soiland-Reyes <sup>1,2</sup>, David Withers, Alan R Williams<sup>1,2</sup>, Donal Fellows<sup>1,2</sup>, Matthew Gamble<sup>2</sup>, Carole Goble<sup>2</sup>
-1) Apache Software Foundation; 2) University of Manchester
+
+<small> <sup>1</sup> Apache Software Foundation; <sup>2</sup> University of Manchester</small>
 
 
 This article describes the workflow language of 
