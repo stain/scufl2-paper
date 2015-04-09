@@ -64,3 +64,8 @@ Databundle contains a wfbundle
 
 TODO: Can a wfbundle contain/also be a databundle for example input/output/run?
 
+### Identifiers
+
+* http://taverna.incubator.apache.org/ns/
+* \cite{Starlinger_2012}
+
