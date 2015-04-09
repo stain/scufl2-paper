@@ -44,6 +44,7 @@
 * Embedding - add resources without having to serialize them within a massive XML
 
 Not a requirement:
+
  * Editing by hand (Still need to know a lot about the services)
  * Too much implicitly - only implicit-where-appropriate (e.g. useful defaults)
 
